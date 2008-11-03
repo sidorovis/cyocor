@@ -3,7 +3,7 @@
 
 = Introduction =
 
-This proejct make rlex and rbison working together.
+This project make rlex and rbison working together.
 Your task is only create files for lexer, for parser. And you will get a compiler.
 
 = Details =
